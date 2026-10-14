@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/banner.svg" alt="Space Projects" width="100%"></p>
 
 <p align="center">
-  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-9b7bff?style=flat-square">
+  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-d55181?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square">
 </p>
 
